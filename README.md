@@ -7,7 +7,7 @@ The program then iterates over the list of IP addresses and attempts to establis
 For each device, it runs the specified commands and prints the output to the console.
 The program handles exceptions for authentication failures, SSH connection failures, and no valid connections.
 
-Replace username and password with the appropriate values for your Cisco devices. 
+Replace username and password with the appropriate values for your Cisco devices.
 Create a file named 'ip_addresses.txt' and list each IP address on a separate line. 
 Create a file named 'commands.txt' and list each command on a separate line.
 When you run the program, it will read the IP addresses and commands from the files and iterate over the IP addresses to run the commands on each device.

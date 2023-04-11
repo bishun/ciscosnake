@@ -1,0 +1,3 @@
+# EXAMPLE FILE DELETE THIS TEXT and REPLACE COMMANDS below
+
+show running-config
